@@ -1,6 +1,4 @@
-Using an Integrated Predictive Model with Multi-Objective Optimization
-This paper introduces an enhanced method for heart disease prediction by integrating multi-objective optimization techniques
-for wrapper-based feature selection. Using a UCI heart disease dataset, the approach applies four multi-objective optimization
-algorithms—genetic algorithm, gray wolf optimization, particle swarm optimization, and bee colony optimization—to identify
-significant features. These features are then used as input to classification models, including K-nearest neighbors,
-support vector machines, artificial neural networks, and Naïve Bayes, to predict cardiovascular disease.
+This repository implements an enhanced heart disease prediction method using multi-objective optimization
+techniques—genetic algorithm, gray wolf, particle swarm, and bee colony optimization—for wrapper-based feature
+selection on the UCI heart disease dataset. The selected features are fed into classification models including KNN,
+SVM, ANN, and Naïve Bayes to accurately predict cardiovascular disease.
